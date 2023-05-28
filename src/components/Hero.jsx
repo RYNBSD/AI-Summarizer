@@ -5,7 +5,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
-        <a href="https://github.com/" rel="noreferrer" target="_blank" className="black_btn">GitHub</a>
+        <a href="https://github.com/RYNBSD" rel="noreferrer" target="_blank" className="black_btn">GitHub</a>
       </nav>
       <h1 className="head_text">Summarize Articales with <br className="max-md:hidden" /> <span className="orange_gradient">OpenAI GPT-4</span></h1>
       <h2 className="desc">
